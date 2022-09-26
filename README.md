@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @WorldSurferX
+- 👋 Hi, I’m Obaid
 - 👀 I’m interested in tech!
-- 📫 How to reach me Twitter or user403error@gmail.com
+- 📫 You can reach me via Twitter or user403error@gmail.com
+- 💻 Very interested in programming and cyber security
 
 <!---
 WorldSurferX/WorldSurferX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
