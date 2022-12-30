@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Obaid
 - 👀 I’m interested in tech!
-- 📫 You can reach me via Twitter or user403error@gmail.com
+- 📫 You can reach me at user403error@gmail.com
 - 💻 Very interested in programming and cyber security
 
 <!---
